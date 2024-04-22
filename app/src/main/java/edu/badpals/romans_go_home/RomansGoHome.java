@@ -1,7 +1,5 @@
 package edu.badpals.romans_go_home;
 
-import java.util.List;
-
 public class RomansGoHome {
 
 	public static void main(String[] args) {
