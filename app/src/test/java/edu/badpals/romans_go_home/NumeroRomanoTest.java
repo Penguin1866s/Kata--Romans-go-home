@@ -13,12 +13,12 @@ import org.junit.jupiter.params.provider.CsvSource;
 // @DisplayNameGeneration(DisplayNameGenerator.ReplaceUnderscores.class)
 public class NumeroRomanoTest {
 
-    /*
+
     public RomanNumber numeroRomano;
 
     /**
      * Grupos sumatorios M, C, X, I
-     #
+     */
     
     @ParameterizedTest
     @CsvSource({
@@ -40,7 +40,8 @@ public class NumeroRomanoTest {
          * Sino, hay que programar la gestion de errores
          #
     }
-
+    */
+        /*
     @Test
     @Tag("sumatorio")
     public void tres_repeticiones_C_test() {

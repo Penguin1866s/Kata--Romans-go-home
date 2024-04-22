@@ -1,9 +1,11 @@
 package edu.badpals.romans_go_home;
 
+import java.util.List;
+
 public class RomansGoHome {
 
 	public static void main(String[] args) {
-		/*
+
 
 		List.of( "MMMDCCCLXXXVIII", // 3888
 				 "MMDCCLXXVII",  // 2777
@@ -13,6 +15,6 @@ public class RomansGoHome {
 			.map(RomanNumber::new)
 			.forEach(n -> System.out.println(n.toString() + " = " + n.toDecimal()));
 
-		 */
+
 	}
 }
